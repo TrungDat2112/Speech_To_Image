@@ -1,4 +1,3 @@
-image,caption
 1000268201_693b08cb0e.jpg,A child in a pink dress is climbing up a set of stairs in an entry way .
 1000268201_693b08cb0e.jpg,A girl going into a wooden building .
 1000268201_693b08cb0e.jpg,A little girl climbing into a wooden playhouse .
@@ -40404,11 +40403,6 @@ image,caption
 979383193_0a542a059d.jpg,"Six children , all with black hair , sit at a table for a picture ."
 979383193_0a542a059d.jpg,Six children at a table .
 979383193_0a542a059d.jpg,Six small children sitting at a desk .
-98377566_e4674d1ebd.jpg,Two brown and white dogs lift their ears and look through a fence .
-98377566_e4674d1ebd.jpg,Two little dogs looking out of their cage .
-98377566_e4674d1ebd.jpg,Two small dogs are in a cage outside .
-98377566_e4674d1ebd.jpg,Two small dogs in a cage .
-98377566_e4674d1ebd.jpg,Two white and brown dogs up against a fence .
 985067019_705fe4a4cc.jpg,A boy goes down an inflatable slide .
 985067019_705fe4a4cc.jpg,A boy in red slides down an inflatable ride .
 985067019_705fe4a4cc.jpg,A boy is sliding down in a red shirt .
